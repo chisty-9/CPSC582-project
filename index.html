@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>North America Rental Explorer</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div id="travel-wipe" class="travel-wipe"></div>
+
+  <div id="overview-view" class="page active-view">
+    <header class="main-header">
+      <h1>North America Rental Explorer</h1>
+      <p>
+        Compare airport rental prices across major North American cities.
+        Click a city to explore company prices and trends over time.
+      </p>
+
+      <div class="toggle-controls">
+        <button class="toggle-btn active" data-filter="all">All</button>
+        <button class="toggle-btn" data-filter="weekday">Weekday</button>
+        <button class="toggle-btn" data-filter="weekend">Weekend</button>
+      </div>
+    </header>
+
+    <section class="overview-panel">
+      <h2>Average Price by City</h2>
+      <p class="chart-title-note">Click a bar to travel into the city view.</p>
+      <div id="city-chart"></div>
+    </section>
+  </div>
+
+  <div id="detail-view" class="page hidden">
+    <div id="detail-hero" class="detail-hero">
+      <div class="overlay">
+        <button id="back-btn">← Back to Overview</button>
+        <div class="hero-text">
+          <span id="city-rank-badge" class="rank-badge">#1 Most Expensive</span>
+          <h1 id="detail-city-title">City Name</h1>
+          <p id="detail-city-subtitle">Explore company prices and daily trends</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="detail-content">
+      <div class="summary-card card-enter delay-1">
+        <h2>City Summary</h2>
+        <div id="city-summary"></div>
+      </div>
+
+      <div class="detail-grid">
+        <div class="detail-card card-enter delay-2">
+          <h3>Company Prices</h3>
+          <div id="company-chart"></div>
+        </div>
+
+        <div class="detail-card card-enter delay-3">
+          <h3>Price Trend Over Time</h3>
+          <div id="trend-chart"></div>
+        </div>
+      </div>
+
+      <div class="detail-card insight-card card-enter delay-4">
+        <h3>Quick Insight</h3>
+        <p id="city-insight">Select a city to see insights.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

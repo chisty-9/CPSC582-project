@@ -1,0 +1,1009 @@
+City,Country,Rental_Company,Car_Category,Daily_Price(USD),Pickup_Location,Date_Collected
+Vancouver,Canada,Hertz,Economy/Small,46,Airport,2026-02-01
+Vancouver,Canada,Avis,Economy/Small,48,Airport,2026-02-01
+Vancouver,Canada,Enterprise,Economy/Small,49,Airport,2026-02-01
+Toronto,Canada,Hertz,Economy/Small,63,Airport,2026-02-01
+Toronto,Canada,Avis,Economy/Small,59,Airport,2026-02-01
+Toronto,Canada,Enterprise,Economy/Small,64,Airport,2026-02-01
+Montreal,Canada,Hertz,Economy/Small,35,Airport,2026-02-01
+Montreal,Canada,Avis,Economy/Small,36,Airport,2026-02-01
+Montreal,Canada,Enterprise,Economy/Small,37,Airport,2026-02-01
+New York,USA,Hertz,Economy/Small,45,Airport,2026-02-01
+New York,USA,Avis,Economy/Small,56,Airport,2026-02-01
+New York,USA,Enterprise,Economy/Small,56,Airport,2026-02-01
+Los Angeles,USA,Hertz,Economy/Small,113,Airport,2026-02-01
+Los Angeles,USA,Avis,Economy/Small,108,Airport,2026-02-01
+Los Angeles,USA,Enterprise,Economy/Small,113,Airport,2026-02-01
+Miami,USA,Hertz,Economy/Small,46,Airport,2026-02-01
+Miami,USA,Avis,Economy/Small,47,Airport,2026-02-01
+Miami,USA,Enterprise,Economy/Small,49,Airport,2026-02-01
+Vancouver,Canada,Hertz,Economy/Small,36,Airport,2026-02-02
+Vancouver,Canada,Avis,Economy/Small,34,Airport,2026-02-02
+Vancouver,Canada,Enterprise,Economy/Small,41,Airport,2026-02-02
+Toronto,Canada,Hertz,Economy/Small,37,Airport,2026-02-02
+Toronto,Canada,Avis,Economy/Small,36,Airport,2026-02-02
+Toronto,Canada,Enterprise,Economy/Small,37,Airport,2026-02-02
+Montreal,Canada,Hertz,Economy/Small,28,Airport,2026-02-02
+Montreal,Canada,Avis,Economy/Small,28,Airport,2026-02-02
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-02-02
+New York,USA,Hertz,Economy/Small,49,Airport,2026-02-02
+New York,USA,Avis,Economy/Small,48,Airport,2026-02-02
+New York,USA,Enterprise,Economy/Small,46,Airport,2026-02-02
+Los Angeles,USA,Hertz,Economy/Small,84,Airport,2026-02-02
+Los Angeles,USA,Avis,Economy/Small,97,Airport,2026-02-02
+Los Angeles,USA,Enterprise,Economy/Small,103,Airport,2026-02-02
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-02-02
+Miami,USA,Avis,Economy/Small,38,Airport,2026-02-02
+Miami,USA,Enterprise,Economy/Small,38,Airport,2026-02-02
+Vancouver,Canada,Hertz,Economy/Small,40,Airport,2026-02-03
+Vancouver,Canada,Avis,Economy/Small,38,Airport,2026-02-03
+Vancouver,Canada,Enterprise,Economy/Small,43,Airport,2026-02-03
+Toronto,Canada,Hertz,Economy/Small,41,Airport,2026-02-03
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-02-03
+Toronto,Canada,Enterprise,Economy/Small,40,Airport,2026-02-03
+Montreal,Canada,Hertz,Economy/Small,31,Airport,2026-02-03
+Montreal,Canada,Avis,Economy/Small,31,Airport,2026-02-03
+Montreal,Canada,Enterprise,Economy/Small,32,Airport,2026-02-03
+New York,USA,Hertz,Economy/Small,52,Airport,2026-02-03
+New York,USA,Avis,Economy/Small,51,Airport,2026-02-03
+New York,USA,Enterprise,Economy/Small,50,Airport,2026-02-03
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-02-03
+Los Angeles,USA,Avis,Economy/Small,105,Airport,2026-02-03
+Los Angeles,USA,Enterprise,Economy/Small,108,Airport,2026-02-03
+Miami,USA,Hertz,Economy/Small,40,Airport,2026-02-03
+Miami,USA,Avis,Economy/Small,42,Airport,2026-02-03
+Miami,USA,Enterprise,Economy/Small,43,Airport,2026-02-03
+Vancouver,Canada,Hertz,Economy/Small,41,Airport,2026-02-04
+Vancouver,Canada,Avis,Economy/Small,39,Airport,2026-02-04
+Vancouver,Canada,Enterprise,Economy/Small,44,Airport,2026-02-04
+Toronto,Canada,Hertz,Economy/Small,43,Airport,2026-02-04
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-02-04
+Toronto,Canada,Enterprise,Economy/Small,41,Airport,2026-02-04
+Montreal,Canada,Hertz,Economy/Small,31,Airport,2026-02-04
+Montreal,Canada,Avis,Economy/Small,32,Airport,2026-02-04
+Montreal,Canada,Enterprise,Economy/Small,32,Airport,2026-02-04
+New York,USA,Hertz,Economy/Small,51,Airport,2026-02-04
+New York,USA,Avis,Economy/Small,52,Airport,2026-02-04
+New York,USA,Enterprise,Economy/Small,53,Airport,2026-02-04
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-02-04
+Los Angeles,USA,Avis,Economy/Small,104,Airport,2026-02-04
+Los Angeles,USA,Enterprise,Economy/Small,107,Airport,2026-02-04
+Miami,USA,Hertz,Economy/Small,41,Airport,2026-02-04
+Miami,USA,Avis,Economy/Small,42,Airport,2026-02-04
+Miami,USA,Enterprise,Economy/Small,43,Airport,2026-02-04
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-05
+Vancouver,Canada,Avis,Economy/Small,36,Airport,2026-02-05
+Vancouver,Canada,Enterprise,Economy/Small,41,Airport,2026-02-05
+Toronto,Canada,Hertz,Economy/Small,39,Airport,2026-02-05
+Toronto,Canada,Avis,Economy/Small,39,Airport,2026-02-05
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-02-05
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-02-05
+Montreal,Canada,Avis,Economy/Small,29,Airport,2026-02-05
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-02-05
+New York,USA,Hertz,Economy/Small,52,Airport,2026-02-05
+New York,USA,Avis,Economy/Small,52,Airport,2026-02-05
+New York,USA,Enterprise,Economy/Small,49,Airport,2026-02-05
+Los Angeles,USA,Hertz,Economy/Small,93,Airport,2026-02-05
+Los Angeles,USA,Avis,Economy/Small,108,Airport,2026-02-05
+Los Angeles,USA,Enterprise,Economy/Small,113,Airport,2026-02-05
+Miami,USA,Hertz,Economy/Small,39,Airport,2026-02-05
+Miami,USA,Avis,Economy/Small,40,Airport,2026-02-05
+Miami,USA,Enterprise,Economy/Small,40,Airport,2026-02-05
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-06
+Vancouver,Canada,Avis,Economy/Small,35,Airport,2026-02-06
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-06
+Toronto,Canada,Hertz,Economy/Small,39,Airport,2026-02-06
+Toronto,Canada,Avis,Economy/Small,38,Airport,2026-02-06
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-02-06
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-02-06
+Montreal,Canada,Avis,Economy/Small,29,Airport,2026-02-06
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-02-06
+New York,USA,Hertz,Economy/Small,52,Airport,2026-02-06
+New York,USA,Avis,Economy/Small,52,Airport,2026-02-06
+New York,USA,Enterprise,Economy/Small,49,Airport,2026-02-06
+Los Angeles,USA,Hertz,Economy/Small,92,Airport,2026-02-06
+Los Angeles,USA,Avis,Economy/Small,107,Airport,2026-02-06
+Los Angeles,USA,Enterprise,Economy/Small,111,Airport,2026-02-06
+Miami,USA,Hertz,Economy/Small,39,Airport,2026-02-06
+Miami,USA,Avis,Economy/Small,40,Airport,2026-02-06
+Miami,USA,Enterprise,Economy/Small,39,Airport,2026-02-06
+Vancouver,Canada,Hertz,Economy/Small,46,Airport,2026-02-07
+Vancouver,Canada,Avis,Economy/Small,49,Airport,2026-02-07
+Vancouver,Canada,Enterprise,Economy/Small,50,Airport,2026-02-07
+Toronto,Canada,Hertz,Economy/Small,65,Airport,2026-02-07
+Toronto,Canada,Avis,Economy/Small,61,Airport,2026-02-07
+Toronto,Canada,Enterprise,Economy/Small,66,Airport,2026-02-07
+Montreal,Canada,Hertz,Economy/Small,34,Airport,2026-02-07
+Montreal,Canada,Avis,Economy/Small,35,Airport,2026-02-07
+Montreal,Canada,Enterprise,Economy/Small,37,Airport,2026-02-07
+New York,USA,Hertz,Economy/Small,47,Airport,2026-02-07
+New York,USA,Avis,Economy/Small,58,Airport,2026-02-07
+New York,USA,Enterprise,Economy/Small,57,Airport,2026-02-07
+Los Angeles,USA,Hertz,Economy/Small,115,Airport,2026-02-07
+Los Angeles,USA,Avis,Economy/Small,110,Airport,2026-02-07
+Los Angeles,USA,Enterprise,Economy/Small,115,Airport,2026-02-07
+Miami,USA,Hertz,Economy/Small,47,Airport,2026-02-07
+Miami,USA,Avis,Economy/Small,49,Airport,2026-02-07
+Miami,USA,Enterprise,Economy/Small,51,Airport,2026-02-07
+Vancouver,Canada,Hertz,Economy/Small,41,Airport,2026-02-08
+Vancouver,Canada,Avis,Economy/Small,44,Airport,2026-02-08
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-08
+Toronto,Canada,Hertz,Economy/Small,41,Airport,2026-02-08
+Toronto,Canada,Avis,Economy/Small,45,Airport,2026-02-08
+Toronto,Canada,Enterprise,Economy/Small,44,Airport,2026-02-08
+Montreal,Canada,Hertz,Economy/Small,28,Airport,2026-02-08
+Montreal,Canada,Avis,Economy/Small,34,Airport,2026-02-08
+Montreal,Canada,Enterprise,Economy/Small,34,Airport,2026-02-08
+New York,USA,Hertz,Economy/Small,55,Airport,2026-02-08
+New York,USA,Avis,Economy/Small,57,Airport,2026-02-08
+New York,USA,Enterprise,Economy/Small,57,Airport,2026-02-08
+Los Angeles,USA,Hertz,Economy/Small,96,Airport,2026-02-08
+Los Angeles,USA,Avis,Economy/Small,104,Airport,2026-02-08
+Los Angeles,USA,Enterprise,Economy/Small,104,Airport,2026-02-08
+Miami,USA,Hertz,Economy/Small,49,Airport,2026-02-08
+Miami,USA,Avis,Economy/Small,47,Airport,2026-02-08
+Miami,USA,Enterprise,Economy/Small,48,Airport,2026-02-08
+Vancouver,Canada,Hertz,Economy/Small,38,Airport,2026-02-09
+Vancouver,Canada,Avis,Economy/Small,41,Airport,2026-02-09
+Vancouver,Canada,Enterprise,Economy/Small,38,Airport,2026-02-09
+Toronto,Canada,Hertz,Economy/Small,42,Airport,2026-02-09
+Toronto,Canada,Avis,Economy/Small,43,Airport,2026-02-09
+Toronto,Canada,Enterprise,Economy/Small,42,Airport,2026-02-09
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-02-09
+Montreal,Canada,Avis,Economy/Small,29,Airport,2026-02-09
+Montreal,Canada,Enterprise,Economy/Small,28,Airport,2026-02-09
+New York,USA,Hertz,Economy/Small,47,Airport,2026-02-09
+New York,USA,Avis,Economy/Small,52,Airport,2026-02-09
+New York,USA,Enterprise,Economy/Small,54,Airport,2026-02-09
+Los Angeles,USA,Hertz,Economy/Small,91,Airport,2026-02-09
+Los Angeles,USA,Avis,Economy/Small,92,Airport,2026-02-09
+Los Angeles,USA,Enterprise,Economy/Small,94,Airport,2026-02-09
+Miami,USA,Hertz,Economy/Small,36,Airport,2026-02-09
+Miami,USA,Avis,Economy/Small,37,Airport,2026-02-09
+Miami,USA,Enterprise,Economy/Small,41,Airport,2026-02-09
+Vancouver,Canada,Hertz,Economy/Small,33,Airport,2026-02-10
+Vancouver,Canada,Avis,Economy/Small,36,Airport,2026-02-10
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-10
+Toronto,Canada,Hertz,Economy/Small,35,Airport,2026-02-10
+Toronto,Canada,Avis,Economy/Small,39,Airport,2026-02-10
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-02-10
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-02-10
+Montreal,Canada,Avis,Economy/Small,28,Airport,2026-02-10
+Montreal,Canada,Enterprise,Economy/Small,34,Airport,2026-02-10
+New York,USA,Hertz,Economy/Small,49,Airport,2026-02-10
+New York,USA,Avis,Economy/Small,51,Airport,2026-02-10
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-02-10
+Los Angeles,USA,Hertz,Economy/Small,93,Airport,2026-02-10
+Los Angeles,USA,Avis,Economy/Small,94,Airport,2026-02-10
+Los Angeles,USA,Enterprise,Economy/Small,94,Airport,2026-02-10
+Miami,USA,Hertz,Economy/Small,41,Airport,2026-02-10
+Miami,USA,Avis,Economy/Small,45,Airport,2026-02-10
+Miami,USA,Enterprise,Economy/Small,48,Airport,2026-02-10
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-11
+Vancouver,Canada,Avis,Economy/Small,42,Airport,2026-02-11
+Vancouver,Canada,Enterprise,Economy/Small,43,Airport,2026-02-11
+Toronto,Canada,Hertz,Economy/Small,39,Airport,2026-02-11
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-02-11
+Toronto,Canada,Enterprise,Economy/Small,46,Airport,2026-02-11
+Montreal,Canada,Hertz,Economy/Small,27,Airport,2026-02-11
+Montreal,Canada,Avis,Economy/Small,31,Airport,2026-02-11
+Montreal,Canada,Enterprise,Economy/Small,31,Airport,2026-02-11
+New York,USA,Hertz,Economy/Small,48,Airport,2026-02-11
+New York,USA,Avis,Economy/Small,51,Airport,2026-02-11
+New York,USA,Enterprise,Economy/Small,52,Airport,2026-02-11
+Los Angeles,USA,Hertz,Economy/Small,92,Airport,2026-02-11
+Los Angeles,USA,Avis,Economy/Small,88,Airport,2026-02-11
+Los Angeles,USA,Enterprise,Economy/Small,92,Airport,2026-02-11
+Miami,USA,Hertz,Economy/Small,39,Airport,2026-02-11
+Miami,USA,Avis,Economy/Small,39,Airport,2026-02-11
+Miami,USA,Enterprise,Economy/Small,37,Airport,2026-02-11
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-12
+Vancouver,Canada,Avis,Economy/Small,37,Airport,2026-02-12
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-12
+Toronto,Canada,Hertz,Economy/Small,39,Airport,2026-02-12
+Toronto,Canada,Avis,Economy/Small,42,Airport,2026-02-12
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-02-12
+Montreal,Canada,Hertz,Economy/Small,32,Airport,2026-02-12
+Montreal,Canada,Avis,Economy/Small,30,Airport,2026-02-12
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-02-12
+New York,USA,Hertz,Economy/Small,48,Airport,2026-02-12
+New York,USA,Avis,Economy/Small,53,Airport,2026-02-12
+New York,USA,Enterprise,Economy/Small,55,Airport,2026-02-12
+Los Angeles,USA,Hertz,Economy/Small,89,Airport,2026-02-12
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-02-12
+Los Angeles,USA,Enterprise,Economy/Small,91,Airport,2026-02-12
+Miami,USA,Hertz,Economy/Small,41,Airport,2026-02-12
+Miami,USA,Avis,Economy/Small,43,Airport,2026-02-12
+Miami,USA,Enterprise,Economy/Small,41,Airport,2026-02-12
+Vancouver,Canada,Hertz,Economy/Small,40,Airport,2026-02-13
+Vancouver,Canada,Avis,Economy/Small,41,Airport,2026-02-13
+Vancouver,Canada,Enterprise,Economy/Small,38,Airport,2026-02-13
+Toronto,Canada,Hertz,Economy/Small,38,Airport,2026-02-13
+Toronto,Canada,Avis,Economy/Small,39,Airport,2026-02-13
+Toronto,Canada,Enterprise,Economy/Small,42,Airport,2026-02-13
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-02-13
+Montreal,Canada,Avis,Economy/Small,29,Airport,2026-02-13
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-02-13
+New York,USA,Hertz,Economy/Small,52,Airport,2026-02-13
+New York,USA,Avis,Economy/Small,51,Airport,2026-02-13
+New York,USA,Enterprise,Economy/Small,55,Airport,2026-02-13
+Los Angeles,USA,Hertz,Economy/Small,99,Airport,2026-02-13
+Los Angeles,USA,Avis,Economy/Small,97,Airport,2026-02-13
+Los Angeles,USA,Enterprise,Economy/Small,100,Airport,2026-02-13
+Miami,USA,Hertz,Economy/Small,35,Airport,2026-02-13
+Miami,USA,Avis,Economy/Small,42,Airport,2026-02-13
+Miami,USA,Enterprise,Economy/Small,41,Airport,2026-02-13
+Vancouver,Canada,Hertz,Economy/Small,41,Airport,2026-02-14
+Vancouver,Canada,Avis,Economy/Small,45,Airport,2026-02-14
+Vancouver,Canada,Enterprise,Economy/Small,47,Airport,2026-02-14
+Toronto,Canada,Hertz,Economy/Small,42,Airport,2026-02-14
+Toronto,Canada,Avis,Economy/Small,42,Airport,2026-02-14
+Toronto,Canada,Enterprise,Economy/Small,42,Airport,2026-02-14
+Montreal,Canada,Hertz,Economy/Small,34,Airport,2026-02-14
+Montreal,Canada,Avis,Economy/Small,32,Airport,2026-02-14
+Montreal,Canada,Enterprise,Economy/Small,37,Airport,2026-02-14
+New York,USA,Hertz,Economy/Small,54,Airport,2026-02-14
+New York,USA,Avis,Economy/Small,57,Airport,2026-02-14
+New York,USA,Enterprise,Economy/Small,56,Airport,2026-02-14
+Los Angeles,USA,Hertz,Economy/Small,93,Airport,2026-02-14
+Los Angeles,USA,Avis,Economy/Small,93,Airport,2026-02-14
+Los Angeles,USA,Enterprise,Economy/Small,97,Airport,2026-02-14
+Miami,USA,Hertz,Economy/Small,48,Airport,2026-02-14
+Miami,USA,Avis,Economy/Small,46,Airport,2026-02-14
+Miami,USA,Enterprise,Economy/Small,49,Airport,2026-02-14
+Vancouver,Canada,Hertz,Economy/Small,45,Airport,2026-02-15
+Vancouver,Canada,Avis,Economy/Small,45,Airport,2026-02-15
+Vancouver,Canada,Enterprise,Economy/Small,46,Airport,2026-02-15
+Toronto,Canada,Hertz,Economy/Small,45,Airport,2026-02-15
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-02-15
+Toronto,Canada,Enterprise,Economy/Small,46,Airport,2026-02-15
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-02-15
+Montreal,Canada,Avis,Economy/Small,33,Airport,2026-02-15
+Montreal,Canada,Enterprise,Economy/Small,33,Airport,2026-02-15
+New York,USA,Hertz,Economy/Small,55,Airport,2026-02-15
+New York,USA,Avis,Economy/Small,57,Airport,2026-02-15
+New York,USA,Enterprise,Economy/Small,60,Airport,2026-02-15
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-02-15
+Los Angeles,USA,Avis,Economy/Small,102,Airport,2026-02-15
+Los Angeles,USA,Enterprise,Economy/Small,103,Airport,2026-02-15
+Miami,USA,Hertz,Economy/Small,47,Airport,2026-02-15
+Miami,USA,Avis,Economy/Small,48,Airport,2026-02-15
+Miami,USA,Enterprise,Economy/Small,45,Airport,2026-02-15
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-16
+Vancouver,Canada,Avis,Economy/Small,38,Airport,2026-02-16
+Vancouver,Canada,Enterprise,Economy/Small,45,Airport,2026-02-16
+Toronto,Canada,Hertz,Economy/Small,45,Airport,2026-02-16
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-02-16
+Toronto,Canada,Enterprise,Economy/Small,43,Airport,2026-02-16
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-02-16
+Montreal,Canada,Avis,Economy/Small,37,Airport,2026-02-16
+Montreal,Canada,Enterprise,Economy/Small,32,Airport,2026-02-16
+New York,USA,Hertz,Economy/Small,50,Airport,2026-02-16
+New York,USA,Avis,Economy/Small,55,Airport,2026-02-16
+New York,USA,Enterprise,Economy/Small,55,Airport,2026-02-16
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-02-16
+Los Angeles,USA,Avis,Economy/Small,96,Airport,2026-02-16
+Los Angeles,USA,Enterprise,Economy/Small,100,Airport,2026-02-16
+Miami,USA,Hertz,Economy/Small,45,Airport,2026-02-16
+Miami,USA,Avis,Economy/Small,48,Airport,2026-02-16
+Miami,USA,Enterprise,Economy/Small,49,Airport,2026-02-16
+Vancouver,Canada,Hertz,Economy/Small,39,Airport,2026-02-17
+Vancouver,Canada,Avis,Economy/Small,37,Airport,2026-02-17
+Vancouver,Canada,Enterprise,Economy/Small,41,Airport,2026-02-17
+Toronto,Canada,Hertz,Economy/Small,38,Airport,2026-02-17
+Toronto,Canada,Avis,Economy/Small,38,Airport,2026-02-17
+Toronto,Canada,Enterprise,Economy/Small,40,Airport,2026-02-17
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-02-17
+Montreal,Canada,Avis,Economy/Small,27,Airport,2026-02-17
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-02-17
+New York,USA,Hertz,Economy/Small,56,Airport,2026-02-17
+New York,USA,Avis,Economy/Small,54,Airport,2026-02-17
+New York,USA,Enterprise,Economy/Small,54,Airport,2026-02-17
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-02-17
+Los Angeles,USA,Avis,Economy/Small,94,Airport,2026-02-17
+Los Angeles,USA,Enterprise,Economy/Small,100,Airport,2026-02-17
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-02-17
+Miami,USA,Avis,Economy/Small,38,Airport,2026-02-17
+Miami,USA,Enterprise,Economy/Small,40,Airport,2026-02-17
+Vancouver,Canada,Hertz,Economy/Small,39,Airport,2026-02-18
+Vancouver,Canada,Avis,Economy/Small,40,Airport,2026-02-18
+Vancouver,Canada,Enterprise,Economy/Small,35,Airport,2026-02-18
+Toronto,Canada,Hertz,Economy/Small,38,Airport,2026-02-18
+Toronto,Canada,Avis,Economy/Small,42,Airport,2026-02-18
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-02-18
+Montreal,Canada,Hertz,Economy/Small,27,Airport,2026-02-18
+Montreal,Canada,Avis,Economy/Small,32,Airport,2026-02-18
+Montreal,Canada,Enterprise,Economy/Small,33,Airport,2026-02-18
+New York,USA,Hertz,Economy/Small,47,Airport,2026-02-18
+New York,USA,Avis,Economy/Small,49,Airport,2026-02-18
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-02-18
+Los Angeles,USA,Hertz,Economy/Small,91,Airport,2026-02-18
+Los Angeles,USA,Avis,Economy/Small,97,Airport,2026-02-18
+Los Angeles,USA,Enterprise,Economy/Small,95,Airport,2026-02-18
+Miami,USA,Hertz,Economy/Small,40,Airport,2026-02-18
+Miami,USA,Avis,Economy/Small,40,Airport,2026-02-18
+Miami,USA,Enterprise,Economy/Small,43,Airport,2026-02-18
+Vancouver,Canada,Hertz,Economy/Small,34,Airport,2026-02-19
+Vancouver,Canada,Avis,Economy/Small,35,Airport,2026-02-19
+Vancouver,Canada,Enterprise,Economy/Small,37,Airport,2026-02-19
+Toronto,Canada,Hertz,Economy/Small,43,Airport,2026-02-19
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-02-19
+Toronto,Canada,Enterprise,Economy/Small,43,Airport,2026-02-19
+Montreal,Canada,Hertz,Economy/Small,31,Airport,2026-02-19
+Montreal,Canada,Avis,Economy/Small,30,Airport,2026-02-19
+Montreal,Canada,Enterprise,Economy/Small,33,Airport,2026-02-19
+New York,USA,Hertz,Economy/Small,53,Airport,2026-02-19
+New York,USA,Avis,Economy/Small,57,Airport,2026-02-19
+New York,USA,Enterprise,Economy/Small,55,Airport,2026-02-19
+Los Angeles,USA,Hertz,Economy/Small,94,Airport,2026-02-19
+Los Angeles,USA,Avis,Economy/Small,97,Airport,2026-02-19
+Los Angeles,USA,Enterprise,Economy/Small,94,Airport,2026-02-19
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-02-19
+Miami,USA,Avis,Economy/Small,41,Airport,2026-02-19
+Miami,USA,Enterprise,Economy/Small,39,Airport,2026-02-19
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-20
+Vancouver,Canada,Avis,Economy/Small,40,Airport,2026-02-20
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-20
+Toronto,Canada,Hertz,Economy/Small,41,Airport,2026-02-20
+Toronto,Canada,Avis,Economy/Small,42,Airport,2026-02-20
+Toronto,Canada,Enterprise,Economy/Small,43,Airport,2026-02-20
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-02-20
+Montreal,Canada,Avis,Economy/Small,32,Airport,2026-02-20
+Montreal,Canada,Enterprise,Economy/Small,33,Airport,2026-02-20
+New York,USA,Hertz,Economy/Small,46,Airport,2026-02-20
+New York,USA,Avis,Economy/Small,48,Airport,2026-02-20
+New York,USA,Enterprise,Economy/Small,49,Airport,2026-02-20
+Los Angeles,USA,Hertz,Economy/Small,97,Airport,2026-02-20
+Los Angeles,USA,Avis,Economy/Small,96,Airport,2026-02-20
+Los Angeles,USA,Enterprise,Economy/Small,98,Airport,2026-02-20
+Miami,USA,Hertz,Economy/Small,39,Airport,2026-02-20
+Miami,USA,Avis,Economy/Small,38,Airport,2026-02-20
+Miami,USA,Enterprise,Economy/Small,42,Airport,2026-02-20
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-21
+Vancouver,Canada,Avis,Economy/Small,41,Airport,2026-02-21
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-21
+Toronto,Canada,Hertz,Economy/Small,48,Airport,2026-02-21
+Toronto,Canada,Avis,Economy/Small,46,Airport,2026-02-21
+Toronto,Canada,Enterprise,Economy/Small,46,Airport,2026-02-21
+Montreal,Canada,Hertz,Economy/Small,34,Airport,2026-02-21
+Montreal,Canada,Avis,Economy/Small,31,Airport,2026-02-21
+Montreal,Canada,Enterprise,Economy/Small,39,Airport,2026-02-21
+New York,USA,Hertz,Economy/Small,54,Airport,2026-02-21
+New York,USA,Avis,Economy/Small,52,Airport,2026-02-21
+New York,USA,Enterprise,Economy/Small,58,Airport,2026-02-21
+Los Angeles,USA,Hertz,Economy/Small,102,Airport,2026-02-21
+Los Angeles,USA,Avis,Economy/Small,104,Airport,2026-02-21
+Los Angeles,USA,Enterprise,Economy/Small,103,Airport,2026-02-21
+Miami,USA,Hertz,Economy/Small,41,Airport,2026-02-21
+Miami,USA,Avis,Economy/Small,49,Airport,2026-02-21
+Miami,USA,Enterprise,Economy/Small,49,Airport,2026-02-21
+Vancouver,Canada,Hertz,Economy/Small,45,Airport,2026-02-22
+Vancouver,Canada,Avis,Economy/Small,41,Airport,2026-02-22
+Vancouver,Canada,Enterprise,Economy/Small,44,Airport,2026-02-22
+Toronto,Canada,Hertz,Economy/Small,41,Airport,2026-02-22
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-02-22
+Toronto,Canada,Enterprise,Economy/Small,48,Airport,2026-02-22
+Montreal,Canada,Hertz,Economy/Small,35,Airport,2026-02-22
+Montreal,Canada,Avis,Economy/Small,31,Airport,2026-02-22
+Montreal,Canada,Enterprise,Economy/Small,35,Airport,2026-02-22
+New York,USA,Hertz,Economy/Small,56,Airport,2026-02-22
+New York,USA,Avis,Economy/Small,58,Airport,2026-02-22
+New York,USA,Enterprise,Economy/Small,57,Airport,2026-02-22
+Los Angeles,USA,Hertz,Economy/Small,101,Airport,2026-02-22
+Los Angeles,USA,Avis,Economy/Small,104,Airport,2026-02-22
+Los Angeles,USA,Enterprise,Economy/Small,102,Airport,2026-02-22
+Miami,USA,Hertz,Economy/Small,44,Airport,2026-02-22
+Miami,USA,Avis,Economy/Small,41,Airport,2026-02-22
+Miami,USA,Enterprise,Economy/Small,43,Airport,2026-02-22
+Vancouver,Canada,Hertz,Economy/Small,35,Airport,2026-02-23
+Vancouver,Canada,Avis,Economy/Small,41,Airport,2026-02-23
+Vancouver,Canada,Enterprise,Economy/Small,37,Airport,2026-02-23
+Toronto,Canada,Hertz,Economy/Small,40,Airport,2026-02-23
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-02-23
+Toronto,Canada,Enterprise,Economy/Small,40,Airport,2026-02-23
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-02-23
+Montreal,Canada,Avis,Economy/Small,32,Airport,2026-02-23
+Montreal,Canada,Enterprise,Economy/Small,28,Airport,2026-02-23
+New York,USA,Hertz,Economy/Small,47,Airport,2026-02-23
+New York,USA,Avis,Economy/Small,50,Airport,2026-02-23
+New York,USA,Enterprise,Economy/Small,49,Airport,2026-02-23
+Los Angeles,USA,Hertz,Economy/Small,94,Airport,2026-02-23
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-02-23
+Los Angeles,USA,Enterprise,Economy/Small,97,Airport,2026-02-23
+Miami,USA,Hertz,Economy/Small,41,Airport,2026-02-23
+Miami,USA,Avis,Economy/Small,39,Airport,2026-02-23
+Miami,USA,Enterprise,Economy/Small,42,Airport,2026-02-23
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-02-24
+Vancouver,Canada,Avis,Economy/Small,37,Airport,2026-02-24
+Vancouver,Canada,Enterprise,Economy/Small,39,Airport,2026-02-24
+Toronto,Canada,Hertz,Economy/Small,37,Airport,2026-02-24
+Toronto,Canada,Avis,Economy/Small,38,Airport,2026-02-24
+Toronto,Canada,Enterprise,Economy/Small,37,Airport,2026-02-24
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-02-24
+Montreal,Canada,Avis,Economy/Small,33,Airport,2026-02-24
+Montreal,Canada,Enterprise,Economy/Small,34,Airport,2026-02-24
+New York,USA,Hertz,Economy/Small,55,Airport,2026-02-24
+New York,USA,Avis,Economy/Small,52,Airport,2026-02-24
+New York,USA,Enterprise,Economy/Small,53,Airport,2026-02-24
+Los Angeles,USA,Hertz,Economy/Small,94,Airport,2026-02-24
+Los Angeles,USA,Avis,Economy/Small,95,Airport,2026-02-24
+Los Angeles,USA,Enterprise,Economy/Small,97,Airport,2026-02-24
+Miami,USA,Hertz,Economy/Small,38,Airport,2026-02-24
+Miami,USA,Avis,Economy/Small,36,Airport,2026-02-24
+Miami,USA,Enterprise,Economy/Small,41,Airport,2026-02-24
+Vancouver,Canada,Hertz,Economy/Small,35,Airport,2026-02-25
+Vancouver,Canada,Avis,Economy/Small,41,Airport,2026-02-25
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-25
+Toronto,Canada,Hertz,Economy/Small,38,Airport,2026-02-25
+Toronto,Canada,Avis,Economy/Small,38,Airport,2026-02-25
+Toronto,Canada,Enterprise,Economy/Small,44,Airport,2026-02-25
+Montreal,Canada,Hertz,Economy/Small,27,Airport,2026-02-25
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-02-25
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-02-25
+New York,USA,Hertz,Economy/Small,52,Airport,2026-02-25
+New York,USA,Avis,Economy/Small,53,Airport,2026-02-25
+New York,USA,Enterprise,Economy/Small,58,Airport,2026-02-25
+Los Angeles,USA,Hertz,Economy/Small,96,Airport,2026-02-25
+Los Angeles,USA,Avis,Economy/Small,95,Airport,2026-02-25
+Los Angeles,USA,Enterprise,Economy/Small,96,Airport,2026-02-25
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-02-25
+Miami,USA,Avis,Economy/Small,39,Airport,2026-02-25
+Miami,USA,Enterprise,Economy/Small,36,Airport,2026-02-25
+Vancouver,Canada,Hertz,Economy/Small,36,Airport,2026-02-26
+Vancouver,Canada,Avis,Economy/Small,36,Airport,2026-02-26
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-26
+Toronto,Canada,Hertz,Economy/Small,43,Airport,2026-02-26
+Toronto,Canada,Avis,Economy/Small,43,Airport,2026-02-26
+Toronto,Canada,Enterprise,Economy/Small,44,Airport,2026-02-26
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-02-26
+Montreal,Canada,Avis,Economy/Small,34,Airport,2026-02-26
+Montreal,Canada,Enterprise,Economy/Small,34,Airport,2026-02-26
+New York,USA,Hertz,Economy/Small,50,Airport,2026-02-26
+New York,USA,Avis,Economy/Small,51,Airport,2026-02-26
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-02-26
+Los Angeles,USA,Hertz,Economy/Small,95,Airport,2026-02-26
+Los Angeles,USA,Avis,Economy/Small,93,Airport,2026-02-26
+Los Angeles,USA,Enterprise,Economy/Small,96,Airport,2026-02-26
+Miami,USA,Hertz,Economy/Small,38,Airport,2026-02-26
+Miami,USA,Avis,Economy/Small,43,Airport,2026-02-26
+Miami,USA,Enterprise,Economy/Small,47,Airport,2026-02-26
+Vancouver,Canada,Hertz,Economy/Small,33,Airport,2026-02-27
+Vancouver,Canada,Avis,Economy/Small,38,Airport,2026-02-27
+Vancouver,Canada,Enterprise,Economy/Small,37,Airport,2026-02-27
+Toronto,Canada,Hertz,Economy/Small,41,Airport,2026-02-27
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-02-27
+Toronto,Canada,Enterprise,Economy/Small,36,Airport,2026-02-27
+Montreal,Canada,Hertz,Economy/Small,26,Airport,2026-02-27
+Montreal,Canada,Avis,Economy/Small,28,Airport,2026-02-27
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-02-27
+New York,USA,Hertz,Economy/Small,51,Airport,2026-02-27
+New York,USA,Avis,Economy/Small,49,Airport,2026-02-27
+New York,USA,Enterprise,Economy/Small,55,Airport,2026-02-27
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-02-27
+Los Angeles,USA,Avis,Economy/Small,101,Airport,2026-02-27
+Los Angeles,USA,Enterprise,Economy/Small,98,Airport,2026-02-27
+Miami,USA,Hertz,Economy/Small,36,Airport,2026-02-27
+Miami,USA,Avis,Economy/Small,39,Airport,2026-02-27
+Miami,USA,Enterprise,Economy/Small,42,Airport,2026-02-27
+Vancouver,Canada,Hertz,Economy/Small,45,Airport,2026-02-28
+Vancouver,Canada,Avis,Economy/Small,43,Airport,2026-02-28
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-02-28
+Toronto,Canada,Hertz,Economy/Small,47,Airport,2026-02-28
+Toronto,Canada,Avis,Economy/Small,49,Airport,2026-02-28
+Toronto,Canada,Enterprise,Economy/Small,47,Airport,2026-02-28
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-02-28
+Montreal,Canada,Avis,Economy/Small,33,Airport,2026-02-28
+Montreal,Canada,Enterprise,Economy/Small,34,Airport,2026-02-28
+New York,USA,Hertz,Economy/Small,54,Airport,2026-02-28
+New York,USA,Avis,Economy/Small,54,Airport,2026-02-28
+New York,USA,Enterprise,Economy/Small,53,Airport,2026-02-28
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-02-28
+Los Angeles,USA,Avis,Economy/Small,103,Airport,2026-02-28
+Los Angeles,USA,Enterprise,Economy/Small,103,Airport,2026-02-28
+Miami,USA,Hertz,Economy/Small,38,Airport,2026-02-28
+Miami,USA,Avis,Economy/Small,40,Airport,2026-02-28
+Miami,USA,Enterprise,Economy/Small,46,Airport,2026-02-28
+Vancouver,Canada,Hertz,Economy/Small,39,Airport,2026-03-01
+Vancouver,Canada,Avis,Economy/Small,43,Airport,2026-03-01
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-03-01
+Toronto,Canada,Hertz,Economy/Small,38,Airport,2026-03-01
+Toronto,Canada,Avis,Economy/Small,43,Airport,2026-03-01
+Toronto,Canada,Enterprise,Economy/Small,42,Airport,2026-03-01
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-03-01
+Montreal,Canada,Avis,Economy/Small,31,Airport,2026-03-01
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-03-01
+New York,USA,Hertz,Economy/Small,51,Airport,2026-03-01
+New York,USA,Avis,Economy/Small,50,Airport,2026-03-01
+New York,USA,Enterprise,Economy/Small,52,Airport,2026-03-01
+Los Angeles,USA,Hertz,Economy/Small,97,Airport,2026-03-01
+Los Angeles,USA,Avis,Economy/Small,100,Airport,2026-03-01
+Los Angeles,USA,Enterprise,Economy/Small,102,Airport,2026-03-01
+Miami,USA,Hertz,Economy/Small,34,Airport,2026-03-01
+Miami,USA,Avis,Economy/Small,37,Airport,2026-03-01
+Miami,USA,Enterprise,Economy/Small,41,Airport,2026-03-01
+Vancouver,Canada,Hertz,Economy/Small,31,Airport,2026-03-02
+Vancouver,Canada,Avis,Economy/Small,33,Airport,2026-03-02
+Vancouver,Canada,Enterprise,Economy/Small,34,Airport,2026-03-02
+Toronto,Canada,Hertz,Economy/Small,36,Airport,2026-03-02
+Toronto,Canada,Avis,Economy/Small,35,Airport,2026-03-02
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-02
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-03-02
+Montreal,Canada,Avis,Economy/Small,29,Airport,2026-03-02
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-03-02
+New York,USA,Hertz,Economy/Small,48,Airport,2026-03-02
+New York,USA,Avis,Economy/Small,49,Airport,2026-03-02
+New York,USA,Enterprise,Economy/Small,52,Airport,2026-03-02
+Los Angeles,USA,Hertz,Economy/Small,84,Airport,2026-03-02
+Los Angeles,USA,Avis,Economy/Small,88,Airport,2026-03-02
+Los Angeles,USA,Enterprise,Economy/Small,88,Airport,2026-03-02
+Miami,USA,Hertz,Economy/Small,36,Airport,2026-03-02
+Miami,USA,Avis,Economy/Small,35,Airport,2026-03-02
+Miami,USA,Enterprise,Economy/Small,35,Airport,2026-03-02
+Vancouver,Canada,Hertz,Economy/Small,33,Airport,2026-03-03
+Vancouver,Canada,Avis,Economy/Small,32,Airport,2026-03-03
+Vancouver,Canada,Enterprise,Economy/Small,35,Airport,2026-03-03
+Toronto,Canada,Hertz,Economy/Small,34,Airport,2026-03-03
+Toronto,Canada,Avis,Economy/Small,35,Airport,2026-03-03
+Toronto,Canada,Enterprise,Economy/Small,36,Airport,2026-03-03
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-03-03
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-03
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-03-03
+New York,USA,Hertz,Economy/Small,49,Airport,2026-03-03
+New York,USA,Avis,Economy/Small,50,Airport,2026-03-03
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-03-03
+Los Angeles,USA,Hertz,Economy/Small,96,Airport,2026-03-03
+Los Angeles,USA,Avis,Economy/Small,92,Airport,2026-03-03
+Los Angeles,USA,Enterprise,Economy/Small,98,Airport,2026-03-03
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-03-03
+Miami,USA,Avis,Economy/Small,41,Airport,2026-03-03
+Miami,USA,Enterprise,Economy/Small,39,Airport,2026-03-03
+Vancouver,Canada,Hertz,Economy/Small,36,Airport,2026-03-04
+Vancouver,Canada,Avis,Economy/Small,31,Airport,2026-03-04
+Vancouver,Canada,Enterprise,Economy/Small,39,Airport,2026-03-04
+Toronto,Canada,Hertz,Economy/Small,35,Airport,2026-03-04
+Toronto,Canada,Avis,Economy/Small,33,Airport,2026-03-04
+Toronto,Canada,Enterprise,Economy/Small,35,Airport,2026-03-04
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-04
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-04
+Montreal,Canada,Enterprise,Economy/Small,31,Airport,2026-03-04
+New York,USA,Hertz,Economy/Small,52,Airport,2026-03-04
+New York,USA,Avis,Economy/Small,53,Airport,2026-03-04
+New York,USA,Enterprise,Economy/Small,56,Airport,2026-03-04
+Los Angeles,USA,Hertz,Economy/Small,90,Airport,2026-03-04
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-03-04
+Los Angeles,USA,Enterprise,Economy/Small,91,Airport,2026-03-04
+Miami,USA,Hertz,Economy/Small,36,Airport,2026-03-04
+Miami,USA,Avis,Economy/Small,38,Airport,2026-03-04
+Miami,USA,Enterprise,Economy/Small,37,Airport,2026-03-04
+Vancouver,Canada,Hertz,Economy/Small,33,Airport,2026-03-05
+Vancouver,Canada,Avis,Economy/Small,32,Airport,2026-03-05
+Vancouver,Canada,Enterprise,Economy/Small,30,Airport,2026-03-05
+Toronto,Canada,Hertz,Economy/Small,39,Airport,2026-03-05
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-03-05
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-05
+Montreal,Canada,Hertz,Economy/Small,26,Airport,2026-03-05
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-05
+Montreal,Canada,Enterprise,Economy/Small,25,Airport,2026-03-05
+New York,USA,Hertz,Economy/Small,45,Airport,2026-03-05
+New York,USA,Avis,Economy/Small,44,Airport,2026-03-05
+New York,USA,Enterprise,Economy/Small,48,Airport,2026-03-05
+Los Angeles,USA,Hertz,Economy/Small,94,Airport,2026-03-05
+Los Angeles,USA,Avis,Economy/Small,90,Airport,2026-03-05
+Los Angeles,USA,Enterprise,Economy/Small,92,Airport,2026-03-05
+Miami,USA,Hertz,Economy/Small,34,Airport,2026-03-05
+Miami,USA,Avis,Economy/Small,37,Airport,2026-03-05
+Miami,USA,Enterprise,Economy/Small,37,Airport,2026-03-05
+Vancouver,Canada,Hertz,Economy/Small,30,Airport,2026-03-06
+Vancouver,Canada,Avis,Economy/Small,31,Airport,2026-03-06
+Vancouver,Canada,Enterprise,Economy/Small,31,Airport,2026-03-06
+Toronto,Canada,Hertz,Economy/Small,40,Airport,2026-03-06
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-03-06
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-06
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-06
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-06
+Montreal,Canada,Enterprise,Economy/Small,27,Airport,2026-03-06
+New York,USA,Hertz,Economy/Small,44,Airport,2026-03-06
+New York,USA,Avis,Economy/Small,46,Airport,2026-03-06
+New York,USA,Enterprise,Economy/Small,48,Airport,2026-03-06
+Los Angeles,USA,Hertz,Economy/Small,87,Airport,2026-03-06
+Los Angeles,USA,Avis,Economy/Small,90,Airport,2026-03-06
+Los Angeles,USA,Enterprise,Economy/Small,88,Airport,2026-03-06
+Miami,USA,Hertz,Economy/Small,31,Airport,2026-03-06
+Miami,USA,Avis,Economy/Small,36,Airport,2026-03-06
+Miami,USA,Enterprise,Economy/Small,37,Airport,2026-03-06
+Vancouver,Canada,Hertz,Economy/Small,39,Airport,2026-03-07
+Vancouver,Canada,Avis,Economy/Small,36,Airport,2026-03-07
+Vancouver,Canada,Enterprise,Economy/Small,39,Airport,2026-03-07
+Toronto,Canada,Hertz,Economy/Small,40,Airport,2026-03-07
+Toronto,Canada,Avis,Economy/Small,39,Airport,2026-03-07
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-03-07
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-07
+Montreal,Canada,Avis,Economy/Small,30,Airport,2026-03-07
+Montreal,Canada,Enterprise,Economy/Small,26,Airport,2026-03-07
+New York,USA,Hertz,Economy/Small,51,Airport,2026-03-07
+New York,USA,Avis,Economy/Small,49,Airport,2026-03-07
+New York,USA,Enterprise,Economy/Small,55,Airport,2026-03-07
+Los Angeles,USA,Hertz,Economy/Small,95,Airport,2026-03-07
+Los Angeles,USA,Avis,Economy/Small,94,Airport,2026-03-07
+Los Angeles,USA,Enterprise,Economy/Small,100,Airport,2026-03-07
+Miami,USA,Hertz,Economy/Small,42,Airport,2026-03-07
+Miami,USA,Avis,Economy/Small,40,Airport,2026-03-07
+Miami,USA,Enterprise,Economy/Small,44,Airport,2026-03-07
+Vancouver,Canada,Hertz,Economy/Small,37,Airport,2026-03-08
+Vancouver,Canada,Avis,Economy/Small,37,Airport,2026-03-08
+Vancouver,Canada,Enterprise,Economy/Small,41,Airport,2026-03-08
+Toronto,Canada,Hertz,Economy/Small,34,Airport,2026-03-08
+Toronto,Canada,Avis,Economy/Small,37,Airport,2026-03-08
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-03-08
+Montreal,Canada,Hertz,Economy/Small,28,Airport,2026-03-08
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-08
+Montreal,Canada,Enterprise,Economy/Small,32,Airport,2026-03-08
+New York,USA,Hertz,Economy/Small,45,Airport,2026-03-08
+New York,USA,Avis,Economy/Small,52,Airport,2026-03-08
+New York,USA,Enterprise,Economy/Small,52,Airport,2026-03-08
+Los Angeles,USA,Hertz,Economy/Small,99,Airport,2026-03-08
+Los Angeles,USA,Avis,Economy/Small,94,Airport,2026-03-08
+Los Angeles,USA,Enterprise,Economy/Small,100,Airport,2026-03-08
+Miami,USA,Hertz,Economy/Small,44,Airport,2026-03-08
+Miami,USA,Avis,Economy/Small,45,Airport,2026-03-08
+Miami,USA,Enterprise,Economy/Small,42,Airport,2026-03-08
+Vancouver,Canada,Hertz,Economy/Small,31,Airport,2026-03-09
+Vancouver,Canada,Avis,Economy/Small,36,Airport,2026-03-09
+Vancouver,Canada,Enterprise,Economy/Small,39,Airport,2026-03-09
+Toronto,Canada,Hertz,Economy/Small,33,Airport,2026-03-09
+Toronto,Canada,Avis,Economy/Small,35,Airport,2026-03-09
+Toronto,Canada,Enterprise,Economy/Small,34,Airport,2026-03-09
+Montreal,Canada,Hertz,Economy/Small,26,Airport,2026-03-09
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-09
+Montreal,Canada,Enterprise,Economy/Small,31,Airport,2026-03-09
+New York,USA,Hertz,Economy/Small,51,Airport,2026-03-09
+New York,USA,Avis,Economy/Small,56,Airport,2026-03-09
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-03-09
+Los Angeles,USA,Hertz,Economy/Small,92,Airport,2026-03-09
+Los Angeles,USA,Avis,Economy/Small,87,Airport,2026-03-09
+Los Angeles,USA,Enterprise,Economy/Small,89,Airport,2026-03-09
+Miami,USA,Hertz,Economy/Small,36,Airport,2026-03-09
+Miami,USA,Avis,Economy/Small,34,Airport,2026-03-09
+Miami,USA,Enterprise,Economy/Small,39,Airport,2026-03-09
+Vancouver,Canada,Hertz,Economy/Small,34,Airport,2026-03-10
+Vancouver,Canada,Avis,Economy/Small,36,Airport,2026-03-10
+Vancouver,Canada,Enterprise,Economy/Small,33,Airport,2026-03-10
+Toronto,Canada,Hertz,Economy/Small,38,Airport,2026-03-10
+Toronto,Canada,Avis,Economy/Small,37,Airport,2026-03-10
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-10
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-10
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-10
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-03-10
+New York,USA,Hertz,Economy/Small,48,Airport,2026-03-10
+New York,USA,Avis,Economy/Small,50,Airport,2026-03-10
+New York,USA,Enterprise,Economy/Small,48,Airport,2026-03-10
+Los Angeles,USA,Hertz,Economy/Small,90,Airport,2026-03-10
+Los Angeles,USA,Avis,Economy/Small,92,Airport,2026-03-10
+Los Angeles,USA,Enterprise,Economy/Small,93,Airport,2026-03-10
+Miami,USA,Hertz,Economy/Small,36,Airport,2026-03-10
+Miami,USA,Avis,Economy/Small,32,Airport,2026-03-10
+Miami,USA,Enterprise,Economy/Small,36,Airport,2026-03-10
+Vancouver,Canada,Hertz,Economy/Small,30,Airport,2026-03-11
+Vancouver,Canada,Avis,Economy/Small,31,Airport,2026-03-11
+Vancouver,Canada,Enterprise,Economy/Small,32,Airport,2026-03-11
+Toronto,Canada,Hertz,Economy/Small,33,Airport,2026-03-11
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-03-11
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-11
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-11
+Montreal,Canada,Avis,Economy/Small,29,Airport,2026-03-11
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-03-11
+New York,USA,Hertz,Economy/Small,44,Airport,2026-03-11
+New York,USA,Avis,Economy/Small,42,Airport,2026-03-11
+New York,USA,Enterprise,Economy/Small,43,Airport,2026-03-11
+Los Angeles,USA,Hertz,Economy/Small,90,Airport,2026-03-11
+Los Angeles,USA,Avis,Economy/Small,95,Airport,2026-03-11
+Los Angeles,USA,Enterprise,Economy/Small,93,Airport,2026-03-11
+Miami,USA,Hertz,Economy/Small,30,Airport,2026-03-11
+Miami,USA,Avis,Economy/Small,32,Airport,2026-03-11
+Miami,USA,Enterprise,Economy/Small,35,Airport,2026-03-11
+Vancouver,Canada,Hertz,Economy/Small,33,Airport,2026-03-12
+Vancouver,Canada,Avis,Economy/Small,34,Airport,2026-03-12
+Vancouver,Canada,Enterprise,Economy/Small,38,Airport,2026-03-12
+Toronto,Canada,Hertz,Economy/Small,36,Airport,2026-03-12
+Toronto,Canada,Avis,Economy/Small,32,Airport,2026-03-12
+Toronto,Canada,Enterprise,Economy/Small,36,Airport,2026-03-12
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-03-12
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-12
+Montreal,Canada,Enterprise,Economy/Small,27,Airport,2026-03-12
+New York,USA,Hertz,Economy/Small,46,Airport,2026-03-12
+New York,USA,Avis,Economy/Small,48,Airport,2026-03-12
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-03-12
+Los Angeles,USA,Hertz,Economy/Small,90,Airport,2026-03-12
+Los Angeles,USA,Avis,Economy/Small,90,Airport,2026-03-12
+Los Angeles,USA,Enterprise,Economy/Small,89,Airport,2026-03-12
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-03-12
+Miami,USA,Avis,Economy/Small,41,Airport,2026-03-12
+Miami,USA,Enterprise,Economy/Small,40,Airport,2026-03-12
+Vancouver,Canada,Hertz,Economy/Small,31,Airport,2026-03-13
+Vancouver,Canada,Avis,Economy/Small,33,Airport,2026-03-13
+Vancouver,Canada,Enterprise,Economy/Small,38,Airport,2026-03-13
+Toronto,Canada,Hertz,Economy/Small,34,Airport,2026-03-13
+Toronto,Canada,Avis,Economy/Small,34,Airport,2026-03-13
+Toronto,Canada,Enterprise,Economy/Small,36,Airport,2026-03-13
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-13
+Montreal,Canada,Avis,Economy/Small,27,Airport,2026-03-13
+Montreal,Canada,Enterprise,Economy/Small,31,Airport,2026-03-13
+New York,USA,Hertz,Economy/Small,44,Airport,2026-03-13
+New York,USA,Avis,Economy/Small,48,Airport,2026-03-13
+New York,USA,Enterprise,Economy/Small,49,Airport,2026-03-13
+Los Angeles,USA,Hertz,Economy/Small,97,Airport,2026-03-13
+Los Angeles,USA,Avis,Economy/Small,97,Airport,2026-03-13
+Los Angeles,USA,Enterprise,Economy/Small,94,Airport,2026-03-13
+Miami,USA,Hertz,Economy/Small,38,Airport,2026-03-13
+Miami,USA,Avis,Economy/Small,36,Airport,2026-03-13
+Miami,USA,Enterprise,Economy/Small,42,Airport,2026-03-13
+Vancouver,Canada,Hertz,Economy/Small,39,Airport,2026-03-14
+Vancouver,Canada,Avis,Economy/Small,41,Airport,2026-03-14
+Vancouver,Canada,Enterprise,Economy/Small,38,Airport,2026-03-14
+Toronto,Canada,Hertz,Economy/Small,38,Airport,2026-03-14
+Toronto,Canada,Avis,Economy/Small,36,Airport,2026-03-14
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-14
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-03-14
+Montreal,Canada,Avis,Economy/Small,29,Airport,2026-03-14
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-03-14
+New York,USA,Hertz,Economy/Small,48,Airport,2026-03-14
+New York,USA,Avis,Economy/Small,51,Airport,2026-03-14
+New York,USA,Enterprise,Economy/Small,52,Airport,2026-03-14
+Los Angeles,USA,Hertz,Economy/Small,90,Airport,2026-03-14
+Los Angeles,USA,Avis,Economy/Small,90,Airport,2026-03-14
+Los Angeles,USA,Enterprise,Economy/Small,91,Airport,2026-03-14
+Miami,USA,Hertz,Economy/Small,40,Airport,2026-03-14
+Miami,USA,Avis,Economy/Small,41,Airport,2026-03-14
+Miami,USA,Enterprise,Economy/Small,40,Airport,2026-03-14
+Vancouver,Canada,Hertz,Economy/Small,36,Airport,2026-03-15
+Vancouver,Canada,Avis,Economy/Small,40,Airport,2026-03-15
+Vancouver,Canada,Enterprise,Economy/Small,39,Airport,2026-03-15
+Toronto,Canada,Hertz,Economy/Small,37,Airport,2026-03-15
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-03-15
+Toronto,Canada,Enterprise,Economy/Small,46,Airport,2026-03-15
+Montreal,Canada,Hertz,Economy/Small,26,Airport,2026-03-15
+Montreal,Canada,Avis,Economy/Small,27,Airport,2026-03-15
+Montreal,Canada,Enterprise,Economy/Small,32,Airport,2026-03-15
+New York,USA,Hertz,Economy/Small,56,Airport,2026-03-15
+New York,USA,Avis,Economy/Small,53,Airport,2026-03-15
+New York,USA,Enterprise,Economy/Small,55,Airport,2026-03-15
+Los Angeles,USA,Hertz,Economy/Small,92,Airport,2026-03-15
+Los Angeles,USA,Avis,Economy/Small,92,Airport,2026-03-15
+Los Angeles,USA,Enterprise,Economy/Small,95,Airport,2026-03-15
+Miami,USA,Hertz,Economy/Small,32,Airport,2026-03-15
+Miami,USA,Avis,Economy/Small,37,Airport,2026-03-15
+Miami,USA,Enterprise,Economy/Small,38,Airport,2026-03-15
+Vancouver,Canada,Hertz,Economy/Small,31,Airport,2026-03-16
+Vancouver,Canada,Avis,Economy/Small,35,Airport,2026-03-16
+Vancouver,Canada,Enterprise,Economy/Small,34,Airport,2026-03-16
+Toronto,Canada,Hertz,Economy/Small,33,Airport,2026-03-16
+Toronto,Canada,Avis,Economy/Small,39,Airport,2026-03-16
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-03-16
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-16
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-16
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-03-16
+New York,USA,Hertz,Economy/Small,48,Airport,2026-03-16
+New York,USA,Avis,Economy/Small,46,Airport,2026-03-16
+New York,USA,Enterprise,Economy/Small,46,Airport,2026-03-16
+Los Angeles,USA,Hertz,Economy/Small,88,Airport,2026-03-16
+Los Angeles,USA,Avis,Economy/Small,87,Airport,2026-03-16
+Los Angeles,USA,Enterprise,Economy/Small,93,Airport,2026-03-16
+Miami,USA,Hertz,Economy/Small,27,Airport,2026-03-16
+Miami,USA,Avis,Economy/Small,29,Airport,2026-03-16
+Miami,USA,Enterprise,Economy/Small,35,Airport,2026-03-16
+Vancouver,Canada,Hertz,Economy/Small,36,Airport,2026-03-17
+Vancouver,Canada,Avis,Economy/Small,32,Airport,2026-03-17
+Vancouver,Canada,Enterprise,Economy/Small,38,Airport,2026-03-17
+Toronto,Canada,Hertz,Economy/Small,36,Airport,2026-03-17
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-03-17
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-03-17
+Montreal,Canada,Hertz,Economy/Small,29,Airport,2026-03-17
+Montreal,Canada,Avis,Economy/Small,26,Airport,2026-03-17
+Montreal,Canada,Enterprise,Economy/Small,27,Airport,2026-03-17
+New York,USA,Hertz,Economy/Small,47,Airport,2026-03-17
+New York,USA,Avis,Economy/Small,45,Airport,2026-03-17
+New York,USA,Enterprise,Economy/Small,44,Airport,2026-03-17
+Los Angeles,USA,Hertz,Economy/Small,85,Airport,2026-03-17
+Los Angeles,USA,Avis,Economy/Small,87,Airport,2026-03-17
+Los Angeles,USA,Enterprise,Economy/Small,87,Airport,2026-03-17
+Miami,USA,Hertz,Economy/Small,34,Airport,2026-03-17
+Miami,USA,Avis,Economy/Small,29,Airport,2026-03-17
+Miami,USA,Enterprise,Economy/Small,32,Airport,2026-03-17
+Vancouver,Canada,Hertz,Economy/Small,30,Airport,2026-03-18
+Vancouver,Canada,Avis,Economy/Small,32,Airport,2026-03-18
+Vancouver,Canada,Enterprise,Economy/Small,34,Airport,2026-03-18
+Toronto,Canada,Hertz,Economy/Small,30,Airport,2026-03-18
+Toronto,Canada,Avis,Economy/Small,36,Airport,2026-03-18
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-18
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-18
+Montreal,Canada,Avis,Economy/Small,30,Airport,2026-03-18
+Montreal,Canada,Enterprise,Economy/Small,26,Airport,2026-03-18
+New York,USA,Hertz,Economy/Small,41,Airport,2026-03-18
+New York,USA,Avis,Economy/Small,43,Airport,2026-03-18
+New York,USA,Enterprise,Economy/Small,41,Airport,2026-03-18
+Los Angeles,USA,Hertz,Economy/Small,91,Airport,2026-03-18
+Los Angeles,USA,Avis,Economy/Small,88,Airport,2026-03-18
+Los Angeles,USA,Enterprise,Economy/Small,93,Airport,2026-03-18
+Miami,USA,Hertz,Economy/Small,33,Airport,2026-03-18
+Miami,USA,Avis,Economy/Small,35,Airport,2026-03-18
+Miami,USA,Enterprise,Economy/Small,38,Airport,2026-03-18
+Vancouver,Canada,Hertz,Economy/Small,35,Airport,2026-03-19
+Vancouver,Canada,Avis,Economy/Small,35,Airport,2026-03-19
+Vancouver,Canada,Enterprise,Economy/Small,36,Airport,2026-03-19
+Toronto,Canada,Hertz,Economy/Small,36,Airport,2026-03-19
+Toronto,Canada,Avis,Economy/Small,34,Airport,2026-03-19
+Toronto,Canada,Enterprise,Economy/Small,33,Airport,2026-03-19
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-19
+Montreal,Canada,Avis,Economy/Small,26,Airport,2026-03-19
+Montreal,Canada,Enterprise,Economy/Small,28,Airport,2026-03-19
+New York,USA,Hertz,Economy/Small,49,Airport,2026-03-19
+New York,USA,Avis,Economy/Small,46,Airport,2026-03-19
+New York,USA,Enterprise,Economy/Small,46,Airport,2026-03-19
+Los Angeles,USA,Hertz,Economy/Small,85,Airport,2026-03-19
+Los Angeles,USA,Avis,Economy/Small,84,Airport,2026-03-19
+Los Angeles,USA,Enterprise,Economy/Small,89,Airport,2026-03-19
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-03-19
+Miami,USA,Avis,Economy/Small,37,Airport,2026-03-19
+Miami,USA,Enterprise,Economy/Small,41,Airport,2026-03-19
+Vancouver,Canada,Hertz,Economy/Small,29,Airport,2026-03-20
+Vancouver,Canada,Avis,Economy/Small,30,Airport,2026-03-20
+Vancouver,Canada,Enterprise,Economy/Small,35,Airport,2026-03-20
+Toronto,Canada,Hertz,Economy/Small,36,Airport,2026-03-20
+Toronto,Canada,Avis,Economy/Small,36,Airport,2026-03-20
+Toronto,Canada,Enterprise,Economy/Small,36,Airport,2026-03-20
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-20
+Montreal,Canada,Avis,Economy/Small,26,Airport,2026-03-20
+Montreal,Canada,Enterprise,Economy/Small,25,Airport,2026-03-20
+New York,USA,Hertz,Economy/Small,51,Airport,2026-03-20
+New York,USA,Avis,Economy/Small,48,Airport,2026-03-20
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-03-20
+Los Angeles,USA,Hertz,Economy/Small,92,Airport,2026-03-20
+Los Angeles,USA,Avis,Economy/Small,89,Airport,2026-03-20
+Los Angeles,USA,Enterprise,Economy/Small,94,Airport,2026-03-20
+Miami,USA,Hertz,Economy/Small,29,Airport,2026-03-20
+Miami,USA,Avis,Economy/Small,31,Airport,2026-03-20
+Miami,USA,Enterprise,Economy/Small,32,Airport,2026-03-20
+Vancouver,Canada,Hertz,Economy/Small,40,Airport,2026-03-21
+Vancouver,Canada,Avis,Economy/Small,40,Airport,2026-03-21
+Vancouver,Canada,Enterprise,Economy/Small,40,Airport,2026-03-21
+Toronto,Canada,Hertz,Economy/Small,39,Airport,2026-03-21
+Toronto,Canada,Avis,Economy/Small,41,Airport,2026-03-21
+Toronto,Canada,Enterprise,Economy/Small,42,Airport,2026-03-21
+Montreal,Canada,Hertz,Economy/Small,28,Airport,2026-03-21
+Montreal,Canada,Avis,Economy/Small,33,Airport,2026-03-21
+Montreal,Canada,Enterprise,Economy/Small,36,Airport,2026-03-21
+New York,USA,Hertz,Economy/Small,55,Airport,2026-03-21
+New York,USA,Avis,Economy/Small,57,Airport,2026-03-21
+New York,USA,Enterprise,Economy/Small,59,Airport,2026-03-21
+Los Angeles,USA,Hertz,Economy/Small,98,Airport,2026-03-21
+Los Angeles,USA,Avis,Economy/Small,97,Airport,2026-03-21
+Los Angeles,USA,Enterprise,Economy/Small,102,Airport,2026-03-21
+Miami,USA,Hertz,Economy/Small,39,Airport,2026-03-21
+Miami,USA,Avis,Economy/Small,41,Airport,2026-03-21
+Miami,USA,Enterprise,Economy/Small,43,Airport,2026-03-21
+Vancouver,Canada,Hertz,Economy/Small,40,Airport,2026-03-22
+Vancouver,Canada,Avis,Economy/Small,39,Airport,2026-03-22
+Vancouver,Canada,Enterprise,Economy/Small,42,Airport,2026-03-22
+Toronto,Canada,Hertz,Economy/Small,36,Airport,2026-03-22
+Toronto,Canada,Avis,Economy/Small,37,Airport,2026-03-22
+Toronto,Canada,Enterprise,Economy/Small,43,Airport,2026-03-22
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-22
+Montreal,Canada,Avis,Economy/Small,26,Airport,2026-03-22
+Montreal,Canada,Enterprise,Economy/Small,28,Airport,2026-03-22
+New York,USA,Hertz,Economy/Small,53,Airport,2026-03-22
+New York,USA,Avis,Economy/Small,49,Airport,2026-03-22
+New York,USA,Enterprise,Economy/Small,52,Airport,2026-03-22
+Los Angeles,USA,Hertz,Economy/Small,92,Airport,2026-03-22
+Los Angeles,USA,Avis,Economy/Small,92,Airport,2026-03-22
+Los Angeles,USA,Enterprise,Economy/Small,96,Airport,2026-03-22
+Miami,USA,Hertz,Economy/Small,34,Airport,2026-03-22
+Miami,USA,Avis,Economy/Small,35,Airport,2026-03-22
+Miami,USA,Enterprise,Economy/Small,40,Airport,2026-03-22
+Vancouver,Canada,Hertz,Economy/Small,33,Airport,2026-03-23
+Vancouver,Canada,Avis,Economy/Small,35,Airport,2026-03-23
+Vancouver,Canada,Enterprise,Economy/Small,35,Airport,2026-03-23
+Toronto,Canada,Hertz,Economy/Small,37,Airport,2026-03-23
+Toronto,Canada,Avis,Economy/Small,37,Airport,2026-03-23
+Toronto,Canada,Enterprise,Economy/Small,38,Airport,2026-03-23
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-23
+Montreal,Canada,Avis,Economy/Small,30,Airport,2026-03-23
+Montreal,Canada,Enterprise,Economy/Small,27,Airport,2026-03-23
+New York,USA,Hertz,Economy/Small,51,Airport,2026-03-23
+New York,USA,Avis,Economy/Small,48,Airport,2026-03-23
+New York,USA,Enterprise,Economy/Small,52,Airport,2026-03-23
+Los Angeles,USA,Hertz,Economy/Small,93,Airport,2026-03-23
+Los Angeles,USA,Avis,Economy/Small,93,Airport,2026-03-23
+Los Angeles,USA,Enterprise,Economy/Small,98,Airport,2026-03-23
+Miami,USA,Hertz,Economy/Small,39,Airport,2026-03-23
+Miami,USA,Avis,Economy/Small,37,Airport,2026-03-23
+Miami,USA,Enterprise,Economy/Small,39,Airport,2026-03-23
+Vancouver,Canada,Hertz,Economy/Small,29,Airport,2026-03-24
+Vancouver,Canada,Avis,Economy/Small,29,Airport,2026-03-24
+Vancouver,Canada,Enterprise,Economy/Small,37,Airport,2026-03-24
+Toronto,Canada,Hertz,Economy/Small,31,Airport,2026-03-24
+Toronto,Canada,Avis,Economy/Small,34,Airport,2026-03-24
+Toronto,Canada,Enterprise,Economy/Small,34,Airport,2026-03-24
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-24
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-24
+Montreal,Canada,Enterprise,Economy/Small,29,Airport,2026-03-24
+New York,USA,Hertz,Economy/Small,45,Airport,2026-03-24
+New York,USA,Avis,Economy/Small,46,Airport,2026-03-24
+New York,USA,Enterprise,Economy/Small,50,Airport,2026-03-24
+Los Angeles,USA,Hertz,Economy/Small,84,Airport,2026-03-24
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-03-24
+Los Angeles,USA,Enterprise,Economy/Small,89,Airport,2026-03-24
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-03-24
+Miami,USA,Avis,Economy/Small,33,Airport,2026-03-24
+Miami,USA,Enterprise,Economy/Small,36,Airport,2026-03-24
+Vancouver,Canada,Hertz,Economy/Small,32,Airport,2026-03-25
+Vancouver,Canada,Avis,Economy/Small,34,Airport,2026-03-25
+Vancouver,Canada,Enterprise,Economy/Small,34,Airport,2026-03-25
+Toronto,Canada,Hertz,Economy/Small,34,Airport,2026-03-25
+Toronto,Canada,Avis,Economy/Small,34,Airport,2026-03-25
+Toronto,Canada,Enterprise,Economy/Small,34,Airport,2026-03-25
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-25
+Montreal,Canada,Avis,Economy/Small,28,Airport,2026-03-25
+Montreal,Canada,Enterprise,Economy/Small,26,Airport,2026-03-25
+New York,USA,Hertz,Economy/Small,52,Airport,2026-03-25
+New York,USA,Avis,Economy/Small,47,Airport,2026-03-25
+New York,USA,Enterprise,Economy/Small,49,Airport,2026-03-25
+Los Angeles,USA,Hertz,Economy/Small,88,Airport,2026-03-25
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-03-25
+Los Angeles,USA,Enterprise,Economy/Small,91,Airport,2026-03-25
+Miami,USA,Hertz,Economy/Small,34,Airport,2026-03-25
+Miami,USA,Avis,Economy/Small,40,Airport,2026-03-25
+Miami,USA,Enterprise,Economy/Small,39,Airport,2026-03-25
+Vancouver,Canada,Hertz,Economy/Small,32,Airport,2026-03-26
+Vancouver,Canada,Avis,Economy/Small,35,Airport,2026-03-26
+Vancouver,Canada,Enterprise,Economy/Small,40,Airport,2026-03-26
+Toronto,Canada,Hertz,Economy/Small,31,Airport,2026-03-26
+Toronto,Canada,Avis,Economy/Small,31,Airport,2026-03-26
+Toronto,Canada,Enterprise,Economy/Small,39,Airport,2026-03-26
+Montreal,Canada,Hertz,Economy/Small,25,Airport,2026-03-26
+Montreal,Canada,Avis,Economy/Small,26,Airport,2026-03-26
+Montreal,Canada,Enterprise,Economy/Small,30,Airport,2026-03-26
+New York,USA,Hertz,Economy/Small,50,Airport,2026-03-26
+New York,USA,Avis,Economy/Small,53,Airport,2026-03-26
+New York,USA,Enterprise,Economy/Small,49,Airport,2026-03-26
+Los Angeles,USA,Hertz,Economy/Small,87,Airport,2026-03-26
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-03-26
+Los Angeles,USA,Enterprise,Economy/Small,90,Airport,2026-03-26
+Miami,USA,Hertz,Economy/Small,37,Airport,2026-03-26
+Miami,USA,Avis,Economy/Small,33,Airport,2026-03-26
+Miami,USA,Enterprise,Economy/Small,38,Airport,2026-03-26
+Vancouver,Canada,Hertz,Economy/Small,27,Airport,2026-03-27
+Vancouver,Canada,Avis,Economy/Small,30,Airport,2026-03-27
+Vancouver,Canada,Enterprise,Economy/Small,33,Airport,2026-03-27
+Toronto,Canada,Hertz,Economy/Small,35,Airport,2026-03-27
+Toronto,Canada,Avis,Economy/Small,39,Airport,2026-03-27
+Toronto,Canada,Enterprise,Economy/Small,36,Airport,2026-03-27
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-03-27
+Montreal,Canada,Avis,Economy/Small,27,Airport,2026-03-27
+Montreal,Canada,Enterprise,Economy/Small,26,Airport,2026-03-27
+New York,USA,Hertz,Economy/Small,51,Airport,2026-03-27
+New York,USA,Avis,Economy/Small,51,Airport,2026-03-27
+New York,USA,Enterprise,Economy/Small,53,Airport,2026-03-27
+Los Angeles,USA,Hertz,Economy/Small,96,Airport,2026-03-27
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-03-27
+Los Angeles,USA,Enterprise,Economy/Small,93,Airport,2026-03-27
+Miami,USA,Hertz,Economy/Small,31,Airport,2026-03-27
+Miami,USA,Avis,Economy/Small,32,Airport,2026-03-27
+Miami,USA,Enterprise,Economy/Small,37,Airport,2026-03-27
+Vancouver,Canada,Hertz,Economy/Small,40,Airport,2026-03-28
+Vancouver,Canada,Avis,Economy/Small,38,Airport,2026-03-28
+Vancouver,Canada,Enterprise,Economy/Small,43,Airport,2026-03-28
+Toronto,Canada,Hertz,Economy/Small,41,Airport,2026-03-28
+Toronto,Canada,Avis,Economy/Small,40,Airport,2026-03-28
+Toronto,Canada,Enterprise,Economy/Small,42,Airport,2026-03-28
+Montreal,Canada,Hertz,Economy/Small,30,Airport,2026-03-28
+Montreal,Canada,Avis,Economy/Small,25,Airport,2026-03-28
+Montreal,Canada,Enterprise,Economy/Small,32,Airport,2026-03-28
+New York,USA,Hertz,Economy/Small,49,Airport,2026-03-28
+New York,USA,Avis,Economy/Small,53,Airport,2026-03-28
+New York,USA,Enterprise,Economy/Small,51,Airport,2026-03-28
+Los Angeles,USA,Hertz,Economy/Small,90,Airport,2026-03-28
+Los Angeles,USA,Avis,Economy/Small,91,Airport,2026-03-28
+Los Angeles,USA,Enterprise,Economy/Small,94,Airport,2026-03-28
+Miami,USA,Hertz,Economy/Small,44,Airport,2026-03-28
+Miami,USA,Avis,Economy/Small,42,Airport,2026-03-28
+Miami,USA,Enterprise,Economy/Small,45,Airport,2026-03-28
