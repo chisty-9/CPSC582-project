@@ -1,9 +1,4 @@
-const cityChartWidth = 900;
-const cityChartHeight = 460;
 const cityMargin = { top: 25, right: 20, bottom: 80, left: 70 };
-
-const smallChartWidth = 500;
-const smallChartHeight = 300;
 const smallMargin = { top: 20, right: 20, bottom: 55, left: 60 };
 
 let fullData = [];
@@ -32,8 +27,7 @@ const tooltip = d3.select("body")
 
 const citySvg = d3.select("#city-chart")
   .append("svg")
-  .attr("width", cityChartWidth)
-  .attr("height", cityChartHeight);
+  .attr("id", "city-svg");
 
 d3.csv("mydata.csv").then(data => {
   data.forEach(d => {
@@ -45,13 +39,37 @@ d3.csv("mydata.csv").then(data => {
 
   const filtered = getFilteredData(fullData, currentFilter);
   const cityAverages = getCityAverages(filtered);
-
   selectedCity = cityAverages[0]?.city || null;
 
   drawCityChart(cityAverages);
   setupToggleButtons();
   setupBackButton();
+
+  window.addEventListener("resize", () => {
+    const currentFiltered = getFilteredData(fullData, currentFilter);
+    const currentCityAverages = getCityAverages(currentFiltered);
+    drawCityChart(currentCityAverages);
+
+    if (!d3.select("#detail-view").classed("hidden") && selectedCity) {
+      drawCompanyChart(selectedCity);
+      drawTrendChart(selectedCity);
+    }
+  });
 });
+
+function getCityChartSize() {
+  const container = document.getElementById("city-chart");
+  const width = Math.max(320, Math.min(container.clientWidth || 900, 1100));
+  const height = width < 640 ? 320 : 460;
+  return { width, height };
+}
+
+function getSmallChartSize(containerId) {
+  const container = document.getElementById(containerId);
+  const width = Math.max(280, container.clientWidth || 500);
+  const height = width < 480 ? 240 : 300;
+  return { width, height };
+}
 
 function getFilteredData(data, filterType) {
   if (filterType === "all") return data;
@@ -78,7 +96,12 @@ function getCityAverages(data) {
 }
 
 function drawCityChart(cityData) {
+  const { width: cityChartWidth, height: cityChartHeight } = getCityChartSize();
+
   citySvg.selectAll("*").remove();
+  citySvg
+    .attr("viewBox", `0 0 ${cityChartWidth} ${cityChartHeight}`)
+    .attr("preserveAspectRatio", "xMidYMid meet");
 
   const defs = citySvg.append("defs");
 
@@ -110,12 +133,20 @@ function drawCityChart(cityData) {
     .nice()
     .range([cityMargin.top + innerHeight, cityMargin.top]);
 
-  citySvg.append("g")
+  const bottomAxis = citySvg.append("g")
     .attr("transform", `translate(0,${cityMargin.top + innerHeight})`)
-    .call(d3.axisBottom(x))
-    .selectAll("text")
-    .attr("transform", "rotate(-12)")
-    .style("text-anchor", "end");
+    .call(d3.axisBottom(x));
+
+  if (cityChartWidth < 640) {
+    bottomAxis.selectAll("text")
+      .attr("transform", "rotate(-28)")
+      .style("text-anchor", "end")
+      .style("font-size", "11px");
+  } else {
+    bottomAxis.selectAll("text")
+      .attr("transform", "rotate(-12)")
+      .style("text-anchor", "end");
+  }
 
   citySvg.append("g")
     .attr("transform", `translate(${cityMargin.left},0)`)
@@ -124,7 +155,7 @@ function drawCityChart(cityData) {
   citySvg.append("text")
     .attr("class", "axis-label")
     .attr("x", cityChartWidth / 2)
-    .attr("y", cityChartHeight - 18)
+    .attr("y", cityChartHeight - 14)
     .attr("text-anchor", "middle")
     .text("City");
 
@@ -204,7 +235,7 @@ function drawCityChart(cityData) {
     .attr("x", d => x(d.city) + x.bandwidth() / 2)
     .attr("y", d => y(d.avg) - 10)
     .attr("text-anchor", "middle")
-    .attr("font-size", "11px")
+    .attr("font-size", cityChartWidth < 640 ? "10px" : "11px")
     .attr("fill", "#1f2937")
     .style("opacity", 0)
     .text(d => `$${d.avg.toFixed(1)}`)
@@ -383,12 +414,14 @@ function updateSummary(city) {
 }
 
 function drawCompanyChart(city) {
+  const { width: smallChartWidth, height: smallChartHeight } = getSmallChartSize("company-chart");
+
   d3.select("#company-chart").html("");
 
   const svg = d3.select("#company-chart")
     .append("svg")
-    .attr("width", smallChartWidth)
-    .attr("height", smallChartHeight);
+    .attr("viewBox", `0 0 ${smallChartWidth} ${smallChartHeight}`)
+    .attr("preserveAspectRatio", "xMidYMid meet");
 
   const filtered = getFilteredData(fullData, currentFilter);
   const cityData = filtered.filter(d => d.City === city);
@@ -422,13 +455,20 @@ function drawCompanyChart(city) {
     .nice()
     .range([smallMargin.top + innerHeight, smallMargin.top]);
 
-  svg.append("g")
+  const bottomAxis = svg.append("g")
     .attr("transform", `translate(0,${smallMargin.top + innerHeight})`)
     .call(d3.axisBottom(x));
 
+  if (smallChartWidth < 420) {
+    bottomAxis.selectAll("text")
+      .attr("transform", "rotate(-20)")
+      .style("text-anchor", "end")
+      .style("font-size", "10px");
+  }
+
   svg.append("g")
     .attr("transform", `translate(${smallMargin.left},0)`)
-    .call(d3.axisLeft(y));
+    .call(d3.axisLeft(y).ticks(smallChartWidth < 420 ? 4 : 6));
 
   svg.selectAll(".company-bar")
     .data(companyData)
@@ -468,7 +508,7 @@ function drawCompanyChart(city) {
     .attr("x", d => x(d.company) + x.bandwidth() / 2)
     .attr("y", d => y(d.avg) - 6)
     .attr("text-anchor", "middle")
-    .attr("font-size", "11px")
+    .attr("font-size", smallChartWidth < 420 ? "10px" : "11px")
     .attr("fill", "#1f2937")
     .style("opacity", 0)
     .text(d => d.avg.toFixed(1))
@@ -479,12 +519,14 @@ function drawCompanyChart(city) {
 }
 
 function drawTrendChart(city) {
+  const { width: smallChartWidth, height: smallChartHeight } = getSmallChartSize("trend-chart");
+
   d3.select("#trend-chart").html("");
 
   const svg = d3.select("#trend-chart")
     .append("svg")
-    .attr("width", smallChartWidth)
-    .attr("height", smallChartHeight);
+    .attr("viewBox", `0 0 ${smallChartWidth} ${smallChartHeight}`)
+    .attr("preserveAspectRatio", "xMidYMid meet");
 
   const filtered = getFilteredData(fullData, currentFilter);
   const cityData = filtered.filter(d => d.City === city);
@@ -519,11 +561,11 @@ function drawTrendChart(city) {
 
   svg.append("g")
     .attr("transform", `translate(0,${smallMargin.top + innerHeight})`)
-    .call(d3.axisBottom(x).ticks(6));
+    .call(d3.axisBottom(x).ticks(smallChartWidth < 420 ? 4 : 6));
 
   svg.append("g")
     .attr("transform", `translate(${smallMargin.left},0)`)
-    .call(d3.axisLeft(y));
+    .call(d3.axisLeft(y).ticks(smallChartWidth < 420 ? 4 : 6));
 
   const line = d3.line()
     .x(d => x(d.date))
@@ -534,7 +576,7 @@ function drawTrendChart(city) {
     .datum(dateData)
     .attr("fill", "none")
     .attr("stroke", "#f97316")
-    .attr("stroke-width", 3)
+    .attr("stroke-width", smallChartWidth < 420 ? 2.5 : 3)
     .attr("d", line);
 
   const totalLength = path.node().getTotalLength();
@@ -573,7 +615,7 @@ function drawTrendChart(city) {
     .transition()
     .duration(400)
     .delay((d, i) => 500 + i * 70)
-    .attr("r", 4);
+    .attr("r", smallChartWidth < 420 ? 3 : 4);
 }
 
 function updateInsight(city) {
