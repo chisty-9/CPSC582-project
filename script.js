@@ -623,7 +623,7 @@ function updateInsight(city) {
   const cityData = filtered.filter(d => d.City === city);
 
   if (!cityData.length) {
-    d3.select("#city-insight").text(`No insight available for ${city} in the selected filter.`);
+    d3.select("#city-insight").text(`No insight available for ${city}.`);
     return;
   }
 
@@ -650,15 +650,30 @@ function updateInsight(city) {
   const firstValue = trendData[0]?.avg ?? 0;
   const lastValue = trendData[trendData.length - 1]?.avg ?? 0;
 
-  let trendText = "Prices stay fairly stable across the selected dates.";
+  let insight = "";
+
+  // Trend-based variation
   if (lastValue > firstValue + 3) {
-    trendText = "Prices rise over time, suggesting stronger demand or limited supply.";
+    insight = `Prices in ${city} show an upward trend over time, which could be linked to increasing demand or limited vehicle availability.`;
   } else if (lastValue < firstValue - 3) {
-    trendText = "Prices ease downward over time, suggesting better value later in the period.";
+    insight = `Prices in ${city} decrease slightly over time, suggesting lower demand or better availability later in the period.`;
+  } else {
+    insight = `Prices in ${city} remain relatively stable, indicating consistent demand during this time period.`;
   }
 
+  // Add real-world context variation
+  const contextOptions = [
+    "This may reflect typical weekday travel patterns where fewer people are booking rentals.",
+    "External factors such as fuel prices or seasonal demand could also influence pricing trends.",
+    "During non-peak travel periods, rental demand tends to stabilize, leading to more consistent pricing.",
+    "Business travel schedules and school periods may reduce fluctuations in rental demand.",
+    "Lower tourist activity during this period may contribute to more stable or decreasing prices."
+  ];
+
+  const randomContext = contextOptions[Math.floor(Math.random() * contextOptions.length)];
+
   d3.select("#city-insight").text(
-    `${topCompany} is the priciest company on average in ${city}. ${trendText}`
+    `${topCompany} tends to have the highest average prices in ${city}. ${insight} ${randomContext}`
   );
 }
 
