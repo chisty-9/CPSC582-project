@@ -3,19 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Exploring Car Rental Price Variation Across North American Cities</title>
+  <title>North America Rental Explorer</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div id="travel-wipe" class="travel-wipe"></div>
-
   <div id="overview-view" class="page active-view">
     <header class="main-header">
-      <h1>Exploring Car Rental Price Variation Across North American Cities</h1>
+      <h1>North America Rental Explorer</h1>
       <p>
-        Compare airport rental prices across North American cities.
-        Click a city to explore company prices and trends over time.
+        Explore rental pricing across major North American cities. The overview highlights average city prices so users can quickly compare locations. Click a city to inspect company pricing, short-term trends, and compare it directly with another city.
       </p>
 
       <div class="toggle-controls">
@@ -27,7 +24,9 @@
 
     <section class="overview-panel">
       <h2>Average Price by City</h2>
-      <p class="chart-title-note">Tap or click a bar to travel into the city view.</p>
+      <p class="chart-title-note">
+        Each bar shows the average rental price for a city. Click any bar to open a detailed comparison view.
+      </p>
       <div id="city-chart" class="chart-wrap"></div>
     </section>
   </div>
@@ -39,32 +38,57 @@
         <div class="hero-text">
           <span id="city-rank-badge" class="rank-badge">#1 Most Expensive</span>
           <h1 id="detail-city-title">City Name</h1>
-          <p id="detail-city-subtitle">Explore company prices and daily trends</p>
+          <p id="detail-city-subtitle">Compare the selected city with another city using company-level and trend views.</p>
         </div>
       </div>
     </div>
 
     <div class="detail-content">
-      <div class="summary-card card-enter delay-1">
+      <div class="summary-card">
         <h2>City Summary</h2>
         <div id="city-summary"></div>
       </div>
 
+      <div class="detail-card compare-controls-card">
+        <h3>Comparison Controls</h3>
+        <p class="chart-title-note">
+          Use this menu to compare the selected city against another city without returning to the overview.
+        </p>
+        <label for="compare-city-select" class="select-label">Compare with:</label>
+        <select id="compare-city-select"></select>
+      </div>
+
       <div class="detail-grid">
-        <div class="detail-card card-enter delay-2">
-          <h3>Company Prices</h3>
+        <div class="detail-card">
+          <h3>Selected City Company Prices</h3>
+          <p class="chart-title-note">Average prices for the selected city only.</p>
           <div id="company-chart" class="chart-wrap"></div>
         </div>
 
-        <div class="detail-card card-enter delay-3">
-          <h3>Price Trend Over Time</h3>
+        <div class="detail-card">
+          <h3>Selected City Price Trend</h3>
+          <p class="chart-title-note">Average rental price over the collected dates for the selected city.</p>
           <div id="trend-chart" class="chart-wrap"></div>
         </div>
       </div>
 
-      <div class="detail-card insight-card card-enter delay-4">
+      <div class="detail-grid">
+        <div class="detail-card">
+          <h3>Compare Company Prices Across Cities</h3>
+          <p class="chart-title-note">Grouped bar chart comparing rental companies between the selected city and the comparison city.</p>
+          <div id="company-compare-chart" class="chart-wrap"></div>
+        </div>
+
+        <div class="detail-card">
+          <h3>Compare Trends Across Cities</h3>
+          <p class="chart-title-note">Overlayed trend lines showing how average prices changed over time in both cities.</p>
+          <div id="trend-compare-chart" class="chart-wrap"></div>
+        </div>
+      </div>
+
+      <div class="detail-card insight-card">
         <h3>Quick Insight</h3>
-        <p id="city-insight">Select a city to see insights.</p>
+        <p id="city-insight">Click a city to explore pricing insights.</p>
       </div>
     </div>
   </div>
