@@ -24,7 +24,7 @@ const companyColors = {
 
 const compareColors = {
   selected: "#2563eb",
-  compare: "#7c3aed"
+  compare: "#ec4899"
 };
 
 const tooltip = d3.select("body")
